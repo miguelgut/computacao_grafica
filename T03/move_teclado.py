@@ -1,4 +1,3 @@
-import move
 # import pygame module in this program 
 import pygame
   
